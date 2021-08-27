@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">💻. 🔋  ⚙️</p>
-<p><em>Every good code starts with an instant shot of ☕</em></p>
+<p align="center"><em>Every good code starts with an instant shot of ☕</em></p>
+
+---
 
 ## 📊 My stats
 
